@@ -35,4 +35,4 @@ class Solution:
                 nums[i] = nums[j]
             j += 1
         
-        return i    //It's doesn't matter.
+        return i    # It's doesn't matter.
