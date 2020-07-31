@@ -1,3 +1,3 @@
-# Leetcode
+# LeetCode
 
-Totally wrong, all of these.
+个人练习
